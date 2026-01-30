@@ -1,5 +1,6 @@
 # Three Good Things
-<img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/db24ef22-d339-464a-9f37-0ef42164751a" />
+<img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/204d9468-8b28-4661-9faa-411e7aa85b90" />
+
 
 ## What it is
 
